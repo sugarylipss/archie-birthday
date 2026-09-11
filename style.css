@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&display=swap');
 
 
 * {
@@ -556,10 +556,9 @@ body {
         translateY(0);
 
 }
-
+    
 
 /* Letter text */
-
 
 .letter-content {
 
@@ -570,32 +569,18 @@ body {
 }
 
 
-.letter h1 {
-
-    margin:
-        0 0 25px;
-
-    font-family:
-        'Great Vibes',
-        cursive;
-
-    font-size: 27px;
-
-    line-height: 1.25;
-
-}
-
-
 .letter h2 {
 
     margin:
-        0 0 18px;
+        0 0 22px;
 
     font-family:
-        'Great Vibes',
+        'Caveat',
         cursive;
 
-    font-size: 30px;
+    font-size: 31px;
+
+    font-weight: 600;
 
 }
 
@@ -603,39 +588,45 @@ body {
 .letter p {
 
     margin:
-        10px 0;
+        12px 0;
 
     font-family:
-        Georgia,
-        serif;
+        'Caveat',
+        cursive;
 
-    font-size: 14px;
+    font-size: 18px;
 
-    line-height: 1.55;
+    font-weight: 500;
+
+    line-height: 1.35;
 
 }
 
 
 .letter .signature {
 
-    margin-top: 25px;
+    margin-top: 18px;
 
-    font-size: 15px;
+    font-size: 19px;
 
-    line-height: 1.7;
+    line-height: 1.35;
 
 }
 
 
 .birthday-line {
 
-    margin-top: 28px !important;
+    margin-top: 22px !important;
+
+    margin-bottom: 8px !important;
 
     font-family:
-        'Great Vibes',
+        'Caveat',
         cursive !important;
 
-    font-size: 25px !important;
+    font-size: 24px !important;
+
+    font-weight: 600;
 
 }
 
